@@ -2,9 +2,9 @@
 
 ## 获取方式
 
-扫描下方，回复关键词  ：**后台** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**后台**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -31,25 +31,17 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208051640592.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208051640592.jpg)
 
 ### 4.2 其它模块
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208051640747.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202208051640747.jpg)
 
-![类别管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208051640604.jpg)
+![类别管理](https://www.codeshop.fun/Typora-Images/202208051640604.jpg)
 
-![商品管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208051640137.jpg)
+![商品管理](https://www.codeshop.fun/Typora-Images/202208051640137.jpg)
 
-![添加商品](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208051640361.jpg)
+![添加商品](https://www.codeshop.fun/Typora-Images/202208051640361.jpg)
 
-![用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208051641766.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**后台** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![用户管理](https://www.codeshop.fun/Typora-Images/202208051641766.jpg)
 
